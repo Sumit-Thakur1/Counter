@@ -2,5 +2,5 @@
 
 
 
-https://user-images.githubusercontent.com/94779784/215752746-1b4c14f1-9a06-4d13-a619-519e600ed734.mp4
 
+![assignment_2](https://user-images.githubusercontent.com/94779784/215753036-feb3b020-f3db-40dd-8098-4d1f04cecb28.gif)
